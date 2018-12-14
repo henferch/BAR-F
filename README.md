@@ -11,8 +11,8 @@ within an ordered neighborhood, such that a set of nodes properties is related t
 before fusing information. The results obtained show that our model outperforms the Kalman filter and the Augmented Monte Carlo Localization algorithms in
 the task.
 
-(Images/BAR-F.png)
-**The BAR-F framework for data fusion**
+![See Video](Images/BAR-F.png "The BAR-F framework for data fusion")
+
 
 ## Project content
 
