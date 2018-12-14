@@ -11,7 +11,7 @@ within an ordered neighborhood, such that a set of nodes properties is related t
 before fusing information. The results obtained show that our model outperforms the Kalman filter and the Augmented Monte Carlo Localization algorithms in
 the task.
 
-(Images/setup.png)
+(Images/BAR-F.png)
 **The BAR-F framework for data fusion**
 
 ## Project content
@@ -22,6 +22,6 @@ In this repository you will find the GNU Octave implementation of the framework 
 
 ## Work reference
 
-H. F. Chame, M. M. dos Santos, S. S. C. Botelho (2018) **Reliable fusion of black-box estimates of underwater localization** Forthcomming in 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Madrid, Spain, October 1-5, 2018
+H. F. Chame, M. M. dos Santos, S. S. C. Botelho (2018) **Reliable fusion of black-box estimates of underwater localization** Forthcomming in 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Madrid, Spain, October 1-5, 2018.
 
 
