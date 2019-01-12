@@ -19,4 +19,6 @@ All that is required to do is to run the main script. Some auxilliary scripts ar
 
 H. F. Chame, M. M. dos Santos, S. S. C. Botelho (2018) **Reliable fusion of black-box estimates of underwater localization**  2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). doi:  10.1109/IROS.2018.8593593, available at https://ieeexplore.ieee.org/abstract/document/8593593
 
+A video showing the experiment is available at https://youtu.be/jPywsajUCmE
+
 
